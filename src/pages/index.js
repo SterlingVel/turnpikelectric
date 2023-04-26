@@ -76,7 +76,7 @@ class Home extends React.Component {
               <p className="title" id="title">Turnpike Electric</p>
               <div className="divider" id="divider"></div>
               <p className="bottomText">From Tallahassee to the Keys</p>
-              <button className="applyButton" onClick={e => this.toggleApply()}><b>Now Hiring Contractors</b><br/><span className="hiringSubheader">Click Here to Apply</span></button>
+              <button className="applyButton" onClick={e => this.toggleApply()}><b>Now Hiring Electricians</b><br/><span className="hiringSubheader">Click Here to Apply</span></button>
             </div>
           </div>
 
